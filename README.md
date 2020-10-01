@@ -2,7 +2,10 @@
 The complete code of connected component analysis which is an algorithm in image processig that is used to detect different objects from a binary image.
 ### I used the following approach:
 1 - Read binary image as you can see in files with name "input_image.png"
-<img src=“https://github.com/Zainulabaidin5566/Connected-Component-Analysis-Image-Processing-/blob/master/input_image.png”>
+<p align="center">
+  <img src="https://github.com/Zainulabaidin5566/Connected-Component-Analysis-Image-Processing-/blob/master/input_image.png" width="350" title="input_image">
+  <img src="https://github.com/Zainulabaidin5566/Connected-Component-Analysis-Image-Processing-/blob/master/input_image.png" width="350" alt="image">
+</p>
 2 - Applied connected component analysis 
 3 - And then count the equivilancy list
 4 - and print the result.
