@@ -50,4 +50,4 @@ for row in range(0, dimensions[0]):
         
 
 
-print(np.count_nonzero(np.unique(equivalency_list)))
+print("No of Objects in image are:", np.count_nonzero(np.unique(equivalency_list)))
